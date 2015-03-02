@@ -1,0 +1,54 @@
+/* 
+    Document   : shoppingCart
+    Created on : 14 Oct 2013, 12:03:23 AM
+    Author     : Tumi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+	font-family: sans-serif;
+        font-size: 10pt;
+        color: #000000
+}
+h1 {
+	font-family: sans-serif
+}
+h2 {
+	font-family: sans-serif
+}
+div{
+    border: 1px solid #000000;
+    width: 30%;
+}
+
+table {
+	font-family: sans-serif;
+        font-size: 10pt;
+        border: 1px solid black;
+        border-collapse: collapse;
+        margin: 5px;
+}
+th {
+        font-size: 12pt;
+        text-align: center;
+        border: 1px solid black;
+        border-collapse: collapse;
+        
+}
+td {
+        font-size: 10pt;
+        background: #ffffff;
+        color: #000000;
+        border: 1px solid black;
+        border-collapse: collapse;
+}
+.hd1{
+    color: whitesmoke;
+    background: #666666;
+}
+.hd2{
+    color: #333333;
+    background:  #cccccc;
+}
+

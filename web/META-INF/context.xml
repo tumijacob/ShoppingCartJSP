@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/ShoppinCart">
+    <Resource name = "jdbc/remedies" auth = "Container" maxActive = "10"
+     maxIdle = "2" maxWait = "10000" username = "deitel" password = "deitel"
+     driverClassName = "com.mysql.jdbc.Driver" 
+     url = "jdbc:mysql://localhost/remedies?autoReconnect = true" 
+     removeAbandoned = "true" removeAbandonedTimeout = "60" 
+     type = "javax.sql.DataSource" />
+</Context>
